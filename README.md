@@ -36,8 +36,6 @@ Trained on over 48,800 real-world NYC Airbnb listings, the platform extracts spa
 - [15. Important Dependencies](#15-important-dependencies)
 - [16. Future Improvements](#16-future-improvements)
 - [17. Contributing Guidelines](#17-contributing-guidelines)
-- [18. License](#18-license)
-
 ---
 
 ## 3. Project Overview
@@ -440,6 +438,3 @@ joblib==1.4.2
 
 ---
 
-## 18. License
-
-This project is open-source and distributed under the **[MIT License](https://opensource.org/licenses/MIT)**. You are free to use, modify, study, and distribute this software for personal and commercial applications.
